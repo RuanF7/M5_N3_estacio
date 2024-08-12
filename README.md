@@ -52,5 +52,3 @@
   8. Remoção de registros com valores nulos.
 
 ---
-
-Este README oferece um resumo das atividades realizadas, destacando os objetivos e os passos principais de cada tarefa. Adapte conforme necessário para refletir o contexto e os requisitos do seu projeto.
